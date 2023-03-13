@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Flight Ticket Price Prediction: 
 
 ## Table of Content
   * [Overview](#overview)
