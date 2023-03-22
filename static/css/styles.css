@@ -1,10 +1,10 @@
 body {
-    background-color: #e1f4f3;
+    background-color: #dfd8d8d4;
     text-align: center;
 }
 
 .navbar {
-    background-color: #333333;
+    background-color: #1a1919;
 }
 
 a {
@@ -12,5 +12,5 @@ a {
 }
 
 a:hover {
-    color: #f0f0f0;
+    color: #d89b0a9c;
   }
