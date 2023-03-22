@@ -46,6 +46,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ## Future Scope
 
-* Use multiple Algorithms
-* Optimize Flask app.py
-* Front-End 
+* Use multiple Algorithms 
+* Optimize Flask code app.py
+* Front-End can be made more attractive
