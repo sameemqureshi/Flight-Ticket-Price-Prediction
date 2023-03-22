@@ -25,11 +25,12 @@ pip install -r requirements.txt
 │   ├── css
 ├── template
 │   ├── home.html
+├── Data train.xlsx
+├── Flight_Ticket_Price.ipynb
 ├── Procfile
 ├── README.md
+├── Test_set.xlsx
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
 ├── requirements.txt
 ```
 
